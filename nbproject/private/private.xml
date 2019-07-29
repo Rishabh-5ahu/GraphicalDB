@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/dbutil/DBConnection.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/pojo/CreateTableObjectPojo.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/CreateTableFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/ConnectionFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/DropQueryFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/RenameColumnFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/RenameTableFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/QuerySelectionFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/SelectQueryFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/pojo/ConnectionPojo.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/AddColumnFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/InsertQueryFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/TableNameFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/pojo/TableDataStore.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/ModifyQueryOptionFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/UpdateQueryFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/DeleteQueryFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/DropColumnFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/dao/DatabaseDAO.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/CreateNewUserFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/ModifyQueryFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/CreateUserFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/FileChooserFrame.java</file>
+            <file>file:/C:/Users/RISHABH%20%20SAHU/Documents/NetBeansProjects/GraphicalDB/src/GDB/gui/AlterQueryOptionFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
